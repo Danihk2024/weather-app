@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather App
 
 A simple React weather application that shows current weather for any city. Type a city name, press Enter, and see the temperature and conditions with a background that changes based on whether it's warm or cold.
@@ -80,3 +81,4 @@ The app uses the OpenWeatherMap API. The key is set in `src/App.jsx`. For a publ
 - React 18
 - Create React App (react-scripts)
 - OpenWeatherMap API
+=======
